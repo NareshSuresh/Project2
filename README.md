@@ -18,4 +18,6 @@
   ```dart
    const apiKey = 'YOUR_API_KEY';
    ```
-
+## Screenashots
+![1](https://github.com/user-attachments/assets/fd5957df-4d75-40fa-acc1-1c7649506643)
+![2](https://github.com/user-attachments/assets/4b63a286-0c8f-4868-84a3-becdd486b24d)
